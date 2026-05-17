@@ -24,10 +24,6 @@ Low-level programming | OS kernels & compilers | C/C++ & Assembly (x86 / ARM)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Cypr0s&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cypr0s&theme=default" alt="Profile summary" />
 </p>
 
