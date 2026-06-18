@@ -5,7 +5,7 @@ Interested in Low-level programming | OS kernels & compilers | C/C++ & Assembly 
 ---
 
 - Studying at **VUT FIT** (Brno University of Technology)
-- Currently focused on school projects, with [CyprSH](https://github.com/Cypr0s/CyprSH), [memory-allocator](https://github.com/Cypr0s/memory-allocator) & [DSAC](https://github.com/Cypr0s/DSAC) as side projects
+- Currently focused on school projects, with [CyprSH](https://github.com/Cypr0s/CyprSH) & [DSAC](https://github.com/Cypr0s/DSAC) as side projects
 - How to reach me **kikoluptak1@gmail.com** or **Discord** discord.com/users/681867839455625312
 
 ---
