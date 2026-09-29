@@ -1,11 +1,13 @@
 # Hi, I'm Cypr0s
 
-Interested in Low-level programming | OS kernels & compilers | C/C++ & Assembly (x86 / ARM)
+Interested in Low-level, OS kernels, compilers and embedded systems.
+
+Working with C/C++ and Assembly (x86 / ARM), currently learning Rust.
 
 ---
 
 - Studying at **VUT FIT** (Brno University of Technology)
-- Currently focused on school projects, with [CyprSH](https://github.com/Cypr0s/CyprSH) & [DSAC](https://github.com/Cypr0s/DSAC) as side projects
+- Currently focused on school projects, with [CyprSH](https://github.com/Cypr0s/CyprSH) as side project
 - How to reach me **kikoluptak1@gmail.com** or **Discord** discord.com/users/681867839455625312
 
 ---
